@@ -76,11 +76,20 @@ const linksList = [
     link: '/comp5'
   },
   {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev'
-  }
+    title: 'THE FOOTER',
+    caption: 'COMPONENT 6',
+    link: '/comp6'
+  },
+  {
+    title: 'THE MAIN CARD',
+    caption: 'COMPONENT 7',
+    link: '/comp7'
+  },
+  {
+    title: 'THE NAVBAR',
+    caption: 'COMPONENT 8',
+    link: '/comp8'
+  },
 ];
 
 export default defineComponent({
