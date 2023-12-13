@@ -11,6 +11,9 @@ const routes: RouteRecordRaw[] = [
       {path: 'comp3', component: () => import('components/TheCard.vue') },
       {path: 'comp4', component: () => import('components/TheComp1.vue') },
       {path: 'comp5', component: () => import('components/TheCarouselCard.vue') },
+      {path: 'comp6', component: () => import('components/TheFooter.vue') },
+      {path: 'comp7', component: () => import('components/TheHMainCard.vue') },
+      {path: 'comp8', component: () => import('components/TheNavbar.vue') },
     ],
   },
 
